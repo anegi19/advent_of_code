@@ -24,6 +24,7 @@ Each folder typically contains:
 ##  Languages Used
 
 - Python
+- C++ / RUST (to be added)
 
 ---
 
@@ -38,4 +39,3 @@ Each folder typically contains:
 Feel free to explore the code, but please don’t reuse personal puzzle inputs.
 
 ---
-
